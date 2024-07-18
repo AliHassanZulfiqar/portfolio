@@ -72,7 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out if you have any questions or want to connect!
 
-- Email: alihassanzulfiqar98@gmai.com
+- Email: alihassanzulfiqar98@gmail.com
 - LinkedIn: [Ali Hassan Zulfiqar](https://www.linkedin.com/in/ali-hassan-zulfiqar-66b704b6/)
 
 Thank you for visiting my portfolio!
